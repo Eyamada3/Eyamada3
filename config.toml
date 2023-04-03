@@ -30,7 +30,7 @@ menu:
 
 
 params:
-    author: Author's Name
+    author: Eriko Yamada
 
 
     defaultTheme: auto
@@ -45,14 +45,13 @@ params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Joe Doe
+        title: 山田 江里子
         description: |
 
-          Hello, I am Joe.
-           I am a software developer. 
-        
-
-          This is a minimalistic theme template for websites.
+          Eriko Yamada
+          
+          バイオミメティック水中接着剤の研究をしています．
+          
         imageUrl: "/images/profile.png"
         imageTitle: my image
         # imageWidth: 120
@@ -64,11 +63,11 @@ params:
       - articles
 
     socialIcons:
-        - name: buymeacoffee
+        - name: twitter
           url: "https://ko-fi.com/heycharlola"
         - name: github
           url: "https://github.com/charlola"
-        - name: linkedin
+        - name: mail
           url: "https://www.linkedin.com/in/heycharlola/"
 
       # add more social icons. find more in svg.html file
