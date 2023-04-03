@@ -16,20 +16,17 @@ A master’s student at the Department of Materials Engineering, Graduate School
 
 ## Education
 
-2022.4 - Now　
+- 2022.4 - Now　
+    - 東京大学 工学系研究科 マテリアル工学専攻 江島研究室 (修士課程)
+    - Master course, Department of Materials Engineering (M1), Graduate School of Engineering, The University of Tokyo. (Supervisor: Prof. Hirotaka Ejima)
 
-東京大学 工学系研究科 マテリアル工学専攻 江島研究室 (修士課程)
-Master course, Department of Materials Engineering (M1), Graduate School of Engineering, The University of Tokyo. (Supervisor: Prof. Hirotaka Ejima)
+- 2020.4 - 2022.3
+    - 東京大学 工学部 マテリアル工学科
+    - Bachelor course, Department of Materials Engineering, Faculty of Engineering, The University of Tokyo.
 
-2020.4 - 2022.3
-
-東京大学 工学部 マテリアル工学科
-Bachelor course, Department of Materials Engineering, Faculty of Engineering, The University of Tokyo.
-
-2018.4 - 2020.3
-
-東京大学 教養学部 理科一類
-Natural Sciences 1, College of Arts and Sciences, The University of Tokyo.
+- 2018.4 - 2020.3
+    - 東京大学 教養学部 理科一類
+    - Natural Sciences 1, College of Arts and Sciences, The University of Tokyo.
 
 ## Research Interests
 
