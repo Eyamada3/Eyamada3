@@ -1,9 +1,5 @@
 # 山田江里子 / Eriko Yamada
 
----
-
-![DSC04919.jpg](%E5%B1%B1%E7%94%B0%E6%B1%9F%E9%87%8C%E5%AD%90%20Eriko%20Yamada%201404d6eb10c94271b86b49a7863f6b0a/DSC04919.jpg)
-
 東京大学大学院工学系研究科
 マテリアル工学専攻 江島研究室 修士課程1年
 
@@ -12,16 +8,13 @@ Department of Materials Engineering, The University of Tokyo
 - Email: yamada-eriko846[at]g.ecc.u-tokyo.ac.jp
 - This site URL: [https://bit.ly/3EBeQb8](https://bit.ly/3EBeQb8)
 
-<aside>
-<img src="https://www.notion.so/icons/graduate_gray.svg" alt="https://www.notion.so/icons/graduate_gray.svg" width="40px" /> 材料分野に基づいて植物や自然に関わる物質を研究したいと考えています．
+材料分野に基づいて植物や自然に関わる物質を研究したいと考えています．
 現在は，生物模倣水中接着剤を強化する研究を行っています．
+
 A master’s student at the Department of Materials Engineering, Graduate School of Engineering,  The University of Tokyo, Tokyo, Japan.
 
-</aside>
 
 ## Education
-
----
 
 2022.4 - Now　
 
@@ -40,14 +33,10 @@ Natural Sciences 1, College of Arts and Sciences, The University of Tokyo.
 
 ## Research Interests
 
----
-
 - Biomimetics / Biobased materials / Adhesive / Coating / Composite
 - Cellulose / Tannic acid / Polyphenol / Metal-Organic complex
 
 ## Research
-
----
 
 卓越RA（[統合物質・情報国際卓越大学院](https://www.merit.t.u-tokyo.ac.jp/merit/index.html) MERIT-WINGS 12期生）
 
@@ -78,8 +67,6 @@ Natural Sciences 1, College of Arts and Sciences, The University of Tokyo.
 
 ## Skills
 
----
-
 - Language (日本語 / English)
 - 危険物取扱者甲種 (2021.11取得)
 - Chemical Experiment / 化学実験操作
@@ -97,8 +84,6 @@ FTIR, NMR, SEM, TEM, Evaporator, centrifuge, QCM, XRD, XPS, GPC, Spin coater, Fr
     (Crocheting, Bar knitting, Embroidering)
 
 ## Activities, Communities
-
----
 
 - **Social contribution**
     - 2022年度工学部男女共同参画委員会学生委員会委員
@@ -139,8 +124,6 @@ FTIR, NMR, SEM, TEM, Evaporator, centrifuge, QCM, XRD, XPS, GPC, Spin coater, Fr
 
 ## Works
 
----
-
 [Projects](https://www.notion.so/0f4c6d778742436180abba7b650d048a)
 
 [Photos](https://www.notion.so/Photos-b936149f291247ccb99c5fef6a60ce0a)
@@ -150,8 +133,6 @@ FTIR, NMR, SEM, TEM, Evaporator, centrifuge, QCM, XRD, XPS, GPC, Spin coater, Fr
 [Blog](https://www.notion.so/17377d3caa1f4f048143b838b21a4b94)
 
 ## Contact
-
----
 
 - **Address:** 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan
 - **Email:** yamada-eriko846[at]g.ecc.u-tokyo.ac.jp
